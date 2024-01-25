@@ -1,13 +1,14 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
+title: Proprietary v/s OpenSource
+description:  Dive into the debate between Proprietary and Open Source software with our insightful guide.Gain a deeper understanding to make informed choices for your projects and discover the dynamic balance between innovation, collaboration, and control in the realm of software solutions.
+slug: open-vs-closed-source
 date: 2022-03-06 00:00:00+0000
-image: cover.jpg
+image: cover.png
 categories:
-    - Example Category
+    - homelab
 tags:
-    - Example Tag
+    - homelab
+    - ubuntu
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
